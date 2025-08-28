@@ -142,7 +142,7 @@ img{
 .botao-again{
     width: 140px;
     height: 60px;
-    margin: 20px auto; 
+    margin: 10px auto; 
     display: inline-block; 
     text-align: center;
 }
@@ -175,7 +175,7 @@ img{
     font-weight: bold;
     color: #494444;
     text-align: center;
-    margin: 35px;
+    margin: 30px;
 }
 
 /*-- RESPONSIVIDADE BOOTSTRAP --*/
@@ -250,7 +250,7 @@ img{
     .botao-again{
         width: 140px;
         height: 60px;
-        margin: 30px auto 0; 
+        margin: 25px auto 0; 
         display: inline-block; 
         text-align: center;
     }
@@ -335,7 +335,7 @@ img{
     .botao-again{
         width: 140px;
         height: 60px;
-        margin: 30px auto 0; 
+        margin: 25px auto 0; 
         display: inline-block; 
         text-align: center;
     }
