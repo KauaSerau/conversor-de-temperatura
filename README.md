@@ -67,5 +67,5 @@ Este projeto foi fundamental para consolidar diversos conhecimentos obtidos nos 
 
 **Kauã Serau Lima**
 
-- GitHub: @KauaSerau (https://github.com/KauaSerau)
-- LinkedIn: Kauã Serau Lima (https://www.linkedin.com/in/kauaserau/)
+- GitHub: @KauaSerau https://github.com/KauaSerau
+- LinkedIn: Kauã Serau Lima https://www.linkedin.com/in/kauaserau/
