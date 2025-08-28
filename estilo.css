@@ -201,12 +201,14 @@ img{
     }
     .titulo{
         margin-bottom: 1px;
+        text-align:center;
         width: 100%;
-        height: 40px;
+        height: 30px;
         line-height: 50px;
         color: white;
         font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
         margin-top: 5px;
+        font-size:1.3em;
     }
     .alterar-botao{
         width: 100px;
@@ -246,9 +248,10 @@ img{
         border-radius: 47px;
     }
     .titulo-index{
-        width: 420px;
+        width: 100%;
         text-align: center;
-        margin-bottom: 50px;
+        margin-bottom: 30px;
+        font-size:1.3em;
     }
     .img-index {
         width: 90%;
