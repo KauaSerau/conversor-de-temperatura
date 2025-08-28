@@ -1,10 +1,10 @@
-//ir para escolha
+//ir para página de escolha
 
 function mudarPagina(){
     window.location.href = 'escolha.html'
 }
 
-// escolha da conversão
+//escolha das medidas
 
 function salvarEscolhas(){
     //captura de valores
@@ -25,7 +25,7 @@ function salvarEscolhas(){
 }
 
 
-//calculo do conversor
+//calculo da conversão
 
 function salvarValor(){
     const VALOR = document.getElementById('temperatura').value
