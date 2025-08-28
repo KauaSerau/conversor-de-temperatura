@@ -254,6 +254,14 @@ img{
         display: inline-block; 
         text-align: center;
     }
+    .texto{
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-size: 25px;
+        font-weight: bold;
+        color: #494444;
+        text-align: center;
+        margin: 20px;
+}
   }
 
   /*Small devices*/
