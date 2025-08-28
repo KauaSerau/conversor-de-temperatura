@@ -193,7 +193,7 @@ img{
     }
     .principal{
         background:linear-gradient(to right,#85d9fc,#f8c76d);
-        width: 420px;
+        width: 95%;
         height: 480px;
         border-radius: 47px;
     }
@@ -288,7 +288,7 @@ img{
     }
     .principal{
         background:linear-gradient(to right,#85d9fc,#f8c76d);
-        width: 440px;
+        width: 90%;
         height: 500px;
         border-radius: 47px;
     }
