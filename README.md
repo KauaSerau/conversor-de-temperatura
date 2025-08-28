@@ -14,7 +14,7 @@ Este é um conversor de temperaturas simples e funcional, desenvolvido como meu 
 
 Você pode testar o projeto em funcionamento através do link abaixo:
 
-**Acesse a demonstração ao vivo AQUI: (https://github.com/KauaSerau/conversor-de-temperatura)**
+**Acesse a demonstração ao vivo AQUI: (https://kauaserau.github.io/conversor-de-temperatura/)**
 
 ---
 
