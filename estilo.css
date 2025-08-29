@@ -181,16 +181,6 @@ img{
 /*-- RESPONSIVIDADE BOOTSTRAP --*/
 
 @media (max-width:575.98px) {
-    html body{
-        background-color:#e67a25 ;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        height:100vh;
-        padding: 0px;
-        margin: 0px;
-        box-sizing: border-box;
-    }
     .principal{
         background:linear-gradient(to right,#85d9fc,#f8c76d);
         width: 95%;
@@ -285,16 +275,6 @@ img{
 
   /*Small devices*/
   @media (min-width:576px) and (max-width:767.98px) {
-    html body{
-        background-color:#e67a25 ;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        height:100vh;
-        padding: 0px;
-        margin: 0px;
-        box-sizing: border-box;
-    }
     .principal{
         background:linear-gradient(to right,#85d9fc,#f8c76d);
         width: 90%;
@@ -386,16 +366,6 @@ img{
 
   /*Medium devices*/
   @media (min-width:768px) and (max-width:991.98px) {
-      html body{
-        background-color:#e67a25 ;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        height:100vh;
-        padding: 0px;
-        margin: 0px;
-        box-sizing: border-box;
-    }
     .principal{
         background:linear-gradient(to right,#85d9fc,#f8c76d);
         width: 460px;
@@ -462,16 +432,6 @@ img{
 
   /*Large devices*/
   @media (min-width:992px) and (max-width:1999.98px) {
-      html body{
-        background-color:#e67a25 ;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        height:100vh;
-        padding: 0px;
-        margin: 0px;
-        box-sizing: border-box;
-    }
     .principal{
         background:linear-gradient(to right,#85d9fc,#f8c76d);
         width: 480px;
@@ -541,16 +501,6 @@ img{
 
   /*Extra large devices*/
   @media (min-width:1200px) {
-      html body{
-        background-color:#e67a25 ;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        height:100vh;
-        padding: 0px;
-        margin: 0px;
-        box-sizing: border-box;
-    }
     .principal{
         background:linear-gradient(to right,#85d9fc,#f8c76d);
         width: 500px;
